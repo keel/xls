@@ -1,0 +1,19 @@
+{
+  "name": "xls",
+  "version": "0.1.0",
+  "description": "xls",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "keel",
+  "license": "MIT",
+  "dependencies": {
+    "ktool": "^0.2.2",
+    "xlsx": "^0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "private": true
+}
