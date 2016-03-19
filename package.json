@@ -10,9 +10,13 @@
   "license": "MIT",
   "dependencies": {
     "ktool": "^0.2.2",
-    "xlsx": "^0.8.0"
+    "xlsx": "^0.8.0",
+    "line-reader": "^0.3.0",
+    "bson": "^0.4.20",
+    "mongodb": "~2.0.x"
   },
   "devDependencies": {
+    "chai": "*",
     "mocha": "*"
   },
   "private": true
